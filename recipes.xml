@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
+<recipes>
+    <recipe>
+        <link>recipes/alfredo.html</link>
+        <name>Linguini Alfredo</name>
+        <image>images/alfreddo.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/salmon.html</link>
+        <name>Salmon</name>
+        <image>images/salmon.JPG</image>
+    </recipe>
+    <recipe>
+        <link>recipes/eggs.html</link>
+        <name>Ramen Eggs</name>
+        <image>images/eggs.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/ramen.html</link>
+        <name>Ramen</name>
+        <image>images/ramen.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/spinach.html</link>
+        <name>Sauteed Spinach</name>
+        <image>images/spinach.JPG</image>
+    </recipe>
+    <recipe>
+        <link>recipes/bagel.html</link>
+        <name>Pizza Bagels</name>
+        <image>images/pizbagel.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/burger.html</link>
+        <name>Thousand Island Burger</name>
+        <image>images/burger.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/quesadilla.html</link>
+        <name>Steak Quesadilla</name>
+        <image>images/quesadilla.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/shrimp.html</link>
+        <name>Shrimp Scampi Spaghetti</name>
+        <image>images/shrimp.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/pork.html</link>
+        <name>Breaded Pork Chops</name>
+        <image>images/pork.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/mongbeef.html</link>
+        <name>Mongolian Beef</name>
+        <image>images/mongbeef.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/brocpasta.html</link>
+        <name>Broccoli Pasta</name>
+        <image>images/brocpasta.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/cajunpasta.html</link>
+        <name>Cajun Chicken Pasta</name>
+        <image>images/cajunpasta.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/artichokepiz.html</link>
+        <name>Artichoke Chicken Pizza</name>
+        <image>images/artichokepiz.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/pesto.html</link>
+        <name>Pesto Chicken Pasta</name>
+        <image>images/pesto.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/butter.html</link>
+        <name>Butter Chicken</name>
+        <image>images/butter.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/tunapoke.html</link>
+        <name>Tuna poke bowl</name>
+        <image>images/poke.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/tunamelt.html</link>
+        <name>Tuna melt</name>
+        <image>images/tuna.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/bbq.html</link>
+        <name>BBQ chicken melt</name>
+        <image>images/bbq.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/potato.html</link>
+        <name>Baked potatoes</name>
+        <image>images/potato.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/steak.html</link>
+        <name>Sirloin Steak</name>
+        <image>images/steak.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/ziti.html</link>
+        <name>Baked ziti</name>
+        <image>images/ziti.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/rice.html</link>
+        <name>Fried rice</name>
+        <image>images/rice.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/fish.html</link>
+        <name>Parmesan crusted fish</name>
+        <image>images/fish.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/honeychicken.html</link>
+        <name>Honey Garlic Chicken</name>
+        <image>images/honeychicken.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/poblano.html</link>
+        <name>Poblano Steak and Cheese Tacos</name>
+        <image>images/poblano.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/chickentaco.html</link>
+        <name>Street Corn Chicken Tacos</name>
+        <image>images/chickentaco.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/tortsoup.html</link>
+        <name>Creamy Tortellini and Sausage Soup</name>
+        <image>images/tortsoup.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/poached.html</link>
+        <name>Poached Egg</name>
+        <image>images/poached.JPG</image>
+    </recipe>
+    <recipe>
+        <link>recipes/shrimp_tater.html</link>
+        <name>Shrimp Saute with Red Potatoes</name>
+        <image>images/shrimp_tater.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/turkey_burg.html</link>
+        <name>Turkey Burger</name>
+        <image>images/turkey_burg.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/tuscan_chicken.html</link>
+        <name>Creamy Tuscan Chicken Pasta</name>
+        <image>images/tuscan_chicken.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/snack_wrap.html</link>
+        <name>Chicken and Ranch Wrap</name>
+        <image>images/snack_wrap.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/chicken_noodle.html</link>
+        <name>Chicken Noodle Soup</name>
+        <image>images/chicken_noodle.jpg</image>
+    </recipe>
+</recipes>

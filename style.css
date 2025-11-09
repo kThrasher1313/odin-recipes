@@ -1,3 +1,61 @@
-* {
+/* Basic reset for better consistency */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* --- Search Bar Styling --- */
+#recipe-search {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 25px;
     box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+/* --- Grid Container Styling (CSS GRID) --- */
+.recipe-grid {
+    display: grid;
+    /* Create responsive columns that are at least 300px wide */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px; /* Space between the cards */
+}
+
+/* --- Individual Recipe Card Styling --- */
+.recipe-card {
+    /* Make the card a block-level element for the grid and remove link styling */
+    display: block; 
+    text-decoration: none; 
+    color: #333;
+    
+    /* Box appearance */
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden; /* Keeps image corners rounded */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s; /* Hover effect */
+}
+
+.recipe-card:hover {
+    transform: translateY(-5px); /* Lift card slightly on hover */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.recipe-card img {
+    /* Image styling */
+    width: 100%;
+    height: 200px; /* Fixed height for visual consistency */
+    object-fit: cover; /* Ensures the image covers the area without distortion */
+    display: block;
+}
+
+.recipe-card h3 {
+    /* Recipe name styling */
+    padding: 10px;
+    margin: 0;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #f9f9f9;
 }
