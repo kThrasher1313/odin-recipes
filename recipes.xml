@@ -9,7 +9,7 @@
     <recipe>
         <link>recipes/salmon.html</link>
         <name>Salmon</name>
-        <image>images/salmon.JPG</image>
+        <image>images/salmon.jpg</image>
     </recipe>
     <recipe>
         <link>recipes/eggs.html</link>
@@ -144,7 +144,7 @@
     <recipe>
         <link>recipes/poached.html</link>
         <name>Poached Egg</name>
-        <image>images/poached.JPG</image>
+        <image>images/poached.jpg</image>
     </recipe>
     <recipe>
         <link>recipes/shrimp_tater.html</link>
