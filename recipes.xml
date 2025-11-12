@@ -2,6 +2,16 @@
 <?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
 <recipes>
     <recipe>
+        <link>recipes/pasta_salad.html</link>
+        <name>Pasta Salad</name>
+        <image>images/pasta_salad.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/french_toast.html</link>
+        <name>French Toast</name>
+        <image>images/french_toast.jpg</image>
+    </recipe>
+    <recipe>
         <link>recipes/alfredo.html</link>
         <name>Linguini Alfredo</name>
         <image>images/alfreddo.jpg</image>
