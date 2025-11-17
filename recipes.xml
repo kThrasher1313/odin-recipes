@@ -2,6 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
 <recipes>
     <recipe>
+        <link>recipes/pasta_primavera.html</link>
+        <name>Pasta Primavera</name>
+        <image>images/pasta_primavera.jpg</image>
+    </recipe>
+    <recipe>
         <link>recipes/pasta_salad.html</link>
         <name>Pasta Salad</name>
         <image>images/pasta_salad.jpg</image>
@@ -87,9 +92,9 @@
         <image>images/pesto.jpg</image>
     </recipe>
     <recipe>
-        <link>recipes/butter.html</link>
+        <link>recipes/butter_chicken.html</link>
         <name>Butter Chicken</name>
-        <image>images/butter.jpg</image>
+        <image>images/butter_chicken.jpg</image>
     </recipe>
     <recipe>
         <link>recipes/tunapoke.html</link>
