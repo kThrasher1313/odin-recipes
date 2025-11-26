@@ -2,6 +2,16 @@
 <?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
 <recipes>
     <recipe>
+        <link>recipes/strawberry_pie.html</link>
+        <name>Strawberry Pie</name>
+        <image>images/strawberry_pie.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/nobake_cookies.html</link>
+        <name>No Bake Cookies</name>
+        <image>images/nobake_cookies.jpg</image>
+    </recipe>
+    <recipe>
         <link>recipes/pasta_primavera.html</link>
         <name>Pasta Primavera</name>
         <image>images/pasta_primavera.jpg</image>
