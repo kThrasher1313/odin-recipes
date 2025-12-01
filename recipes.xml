@@ -2,6 +2,21 @@
 <?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
 <recipes>
     <recipe>
+        <link>recipes/pistachio_salad.html</link>
+        <name>Pistachio Salad</name>
+        <image>images/pistachio_salad.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/lemon_poppy_poundcake.html</link>
+        <name>Lemon Poppy Seed Pound Cake</name>
+        <image>images/lemon_poppy_poundcake.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/apple_cider_donuts.html</link>
+        <name>Apple Cider Donuts</name>
+        <image>images/apple_cider_donuts.jpg</image>
+    </recipe>
+    <recipe>
         <link>recipes/strawberry_pie.html</link>
         <name>Strawberry Pie</name>
         <image>images/strawberry_pie.jpg</image>
