@@ -2,6 +2,16 @@
 <?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
 <recipes>
     <recipe>
+        <link>recipes/nut_chicken_salad.html</link>
+        <name>Walnut and Red Pepper Chicken Salad</name>
+        <image>images/nut_chicken_salad.jpg</image>
+    </recipe> 
+    <recipe>
+        <link>recipes/wonton_soup.html</link>
+        <name>Wonton Soup</name>
+        <image>images/wonton_soup.jpg</image>
+    </recipe>    
+    <recipe>
         <link>recipes/pistachio_salad.html</link>
         <name>Pistachio Salad</name>
         <image>images/pistachio_salad.jpg</image>
