@@ -2,6 +2,21 @@
 <?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
 <recipes>
     <recipe>
+        <link>recipes/quinoa_chicken_potato_bowl.html</link>
+        <name>Quinoa Chicken Red Potato Bowl</name>
+        <image>images/quinoa_chicken_potato_bowl.jpg</image>
+    </recipe>
+        <recipe>
+        <link>recipes/peanut_blossum_cookies.html</link>
+        <name>Peanut Butter Blossom Cookies</name>
+        <image>images/peanut_blossum_cookies.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/broccoli_cheddar_soup.html</link>
+        <name>Broccoli Cheddar Soup</name>
+        <image>images/broccoli_cheddar_soup.jpg</image>
+    </recipe>
+    <recipe>
         <link>recipes/nut_chicken_salad.html</link>
         <name>Walnut and Red Pepper Chicken Salad</name>
         <image>images/nut_chicken_salad.jpg</image>
