@@ -2,8 +2,33 @@
 <?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
 <recipes>
     <recipe>
+        <link>recipes/lychee_jello.html</link>
+        <name>Lychee Martini Jello Shots</name>
+        <image>images/lychee_jello.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/chipotle_pasta.html</link>
+        <name>Creamy Spicy Chipotle Chicken Pasta</name>
+        <image>images/chipotle_pasta.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/salt_dough_ornaments.html</link>
+        <name>Salt Dough Ornaments</name>
+        <image>images/salt_dough_ornaments.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/southwest_salmon_bowl.html</link>
+        <name>Southwest Salmon Bowl</name>
+        <image>images/southwest_salmon_bowl.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/sugar_cookies.html</link>
+        <name>Sugar Cookies</name>
+        <image>images/sugar_cookies.jpg</image>
+    </recipe>
+    <recipe>
         <link>recipes/quinoa_chicken_potato_bowl.html</link>
-        <name>Quinoa Chicken Red Potato Bowl</name>
+        <name>Chicken Red Potato Quinoa Bowl</name>
         <image>images/quinoa_chicken_potato_bowl.jpg</image>
     </recipe>
         <recipe>
