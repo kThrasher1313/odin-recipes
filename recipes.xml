@@ -2,6 +2,21 @@
 <?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
 <recipes>
     <recipe>
+        <link>recipes/mini_quiches.html</link>
+        <name>Mini Quiches</name>
+        <image>images/mini_quiches.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/bang_shrimp.html</link>
+        <name>Bang Bang Shrimp</name>
+        <image>images/bang_shrimp.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/onion_dip.html</link>
+        <name>French Onion Dip</name>
+        <image>images/onion_dip.jpg</image>
+    </recipe>
+    <recipe>
         <link>recipes/lychee_jello.html</link>
         <name>Lychee Martini Jello Shots</name>
         <image>images/lychee_jello.jpg</image>
