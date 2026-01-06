@@ -2,6 +2,21 @@
 <?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
 <recipes>
     <recipe>
+        <link>recipes/onigiri.html</link>
+        <name>Onigiri</name>
+        <image>images/onigiri.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/chicken_potatoes.html</link>
+        <name>Garlic Butter Chicken and Creamy Potatoes</name>
+        <image>images/chicken_potatoes.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/pot_roast.html</link>
+        <name>Pot Roast</name>
+        <image>images/pot_roast.jpg</image>
+    </recipe>
+    <recipe>
         <link>recipes/mini_quiches.html</link>
         <name>Mini Quiches</name>
         <image>images/mini_quiches.jpg</image>
