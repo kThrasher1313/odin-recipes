@@ -2,6 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
 <recipes>
     <recipe>
+        <link>recipes/baked_nacho_chips.html</link>
+        <name>Baked Nacho Cheese Chips</name>
+        <image>images/baked_nacho_chips.jpg</image>
+    </recipe>
+    <recipe>
         <link>recipes/onigiri.html</link>
         <name>Onigiri</name>
         <image>images/onigiri.jpg</image>
