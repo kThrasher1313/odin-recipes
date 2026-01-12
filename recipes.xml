@@ -2,6 +2,16 @@
 <?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
 <recipes>
     <recipe>
+        <link>recipes/scalloped_potatoes.html</link>
+        <name>Crockpot Scalloped Potatoes</name>
+        <image>images/scalloped_potatoes.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/beef_stroganoff.html</link>
+        <name>Crockpot Beef Stroganoff</name>
+        <image>images/beef_stroganoff.jpg</image>
+    </recipe>
+    <recipe>
         <link>recipes/baked_nacho_chips.html</link>
         <name>Baked Nacho Cheese Chips</name>
         <image>images/baked_nacho_chips.jpg</image>
@@ -18,7 +28,7 @@
     </recipe>
     <recipe>
         <link>recipes/pot_roast.html</link>
-        <name>Pot Roast</name>
+        <name>Crockpot Pot Roast</name>
         <image>images/pot_roast.jpg</image>
     </recipe>
     <recipe>
