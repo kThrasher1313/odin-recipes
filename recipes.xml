@@ -2,6 +2,31 @@
 <?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
 <recipes>
     <recipe>
+        <link>recipes/cream_of_chicken.html</link>
+        <name>Cream of Chicken Soup</name>
+        <image>images/cream_of_chicken.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/teriyaki_chicken.html</link>
+        <name>Teriyaki Chicken Bowl</name>
+        <image>images/teriyaki_chicken.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/shane_hollander.html</link>
+        <name>Shane Hollander Drink</name>
+        <image>images/shane_hollander.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/pulled_pork.html</link>
+        <name>Slow Cooker Pulled Pork</name>
+        <image>images/pulled_pork.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/chicken_fajita.html</link>
+        <name>Chicken Fajita Skillet Casserole</name>
+        <image>images/chicken_fajita.jpg</image>
+    </recipe>
+    <recipe>
         <link>recipes/scalloped_potatoes.html</link>
         <name>Crockpot Scalloped Potatoes</name>
         <image>images/scalloped_potatoes.jpg</image>
