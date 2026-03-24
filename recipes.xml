@@ -2,6 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
 <recipes>
     <recipe>
+        <link>recipes/burger_casserole.html</link>
+        <name>Hamburger Casserole</name>
+        <image>images/burger_casserole.jpg</image>
+    </recipe>
+    <recipe>
         <link>recipes/thai_noodle.html</link>
         <name>Cold Thai Noodle Salad</name>
         <image>images/thai_noodle.jpg</image>
