@@ -2,6 +2,16 @@
 <?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
 <recipes>
     <recipe>
+        <link>recipes/asian_stirfry.html</link>
+        <name>Asian Stirfry Bowl</name>
+        <image>images/asian_stirfry.jpg</image>
+    </recipe>
+        <recipe>
+        <link>recipes/chickpea_bowl.html</link>
+        <name>Mediterranean Chickpea Bowls</name>
+        <image>images/chickpea_bowl.jpg</image>
+    </recipe>
+    <recipe>
         <link>recipes/stuffed_peppers.html</link>
         <name>Stuffed Peppers</name>
         <image>images/stuffed_peppers.jpg</image>
