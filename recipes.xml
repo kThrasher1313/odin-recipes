@@ -2,6 +2,31 @@
 <?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
 <recipes>
     <recipe>
+        <link>recipes/spinach_artichoke_soup.html</link>
+        <name>Spinach Artichoke Soup</name>
+        <image>images/spinach_artichoke_soup.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/chicken_orzo.html</link>
+        <name>Creamy Chicken Orzo</name>
+        <image>images/chicken_orzo.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/ribs.html</link>
+        <name>Slow Cooker Ribs</name>
+        <image>images/ribs.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/spaghetti_squash.html</link>
+        <name>Spaghetti Squash</name>
+        <image>images/spaghetti_squash.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/savory_muffins.html</link>
+        <name>Savory Breakfast Muffins</name>
+        <image>images/savory_muffins.jpg</image>
+    </recipe>
+    <recipe>
         <link>recipes/asian_stirfry.html</link>
         <name>Asian Stirfry Bowl</name>
         <image>images/asian_stirfry.jpg</image>
@@ -73,7 +98,7 @@
     </recipe>
     <recipe>
         <link>recipes/baked_nacho_chips.html</link>
-        <name>Baked Nacho Cheese Chips</name>
+        <name>Baked Tortilla Chips</name>
         <image>images/baked_nacho_chips.jpg</image>
     </recipe>
     <recipe>
