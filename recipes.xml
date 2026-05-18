@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
 <recipes>
+<recipe>
+        <link>recipes/spicy_lomein.html</link>
+        <name>Spicy Beef Lomein</name>
+        <image>images/spicy_lomein.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/penne_vodka.html</link>
+        <name>Penne alla vodka</name>
+        <image>images/penne_vodka.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/cuc_hummus.html</link>
+        <name>Cucumber Hummus Spread</name>
+        <image>images/cuc_hummus.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/sesame_chicken.html</link>
+        <name>Sesame Chicken</name>
+        <image>images/sesame_chicken.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/bean_burger.html</link>
+        <name>Black Bean Burger</name>
+        <image>images/bean_burger.jpg</image>
+    </recipe>
     <recipe>
         <link>recipes/spinach_artichoke_soup.html</link>
         <name>Spinach Artichoke Soup</name>
