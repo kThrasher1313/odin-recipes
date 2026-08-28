@@ -1,7 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
 <recipes>
-<recipe>
+    <recipe>
+        <link>recipes/kbeef_bowl.html</link>
+        <name>Korean Beef Bowl</name>
+        <image>images/kbeef_bowl.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/sausage_bowl.html</link>
+        <name>Italian Sausage Bowl</name>
+        <image>images/sausage_bowl.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/sloppy_joe.html</link>
+        <name>Sloppy Joes</name>
+        <image>images/sloppy_joe.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/pot_pie.html</link>
+        <name>Chicken Pot Pie</name>
+        <image>images/pot_pie.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/french_bowl.html</link>
+        <name>French Toast Bowl</name>
+        <image>images/french_bowl.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/mac_cheese.html</link>
+        <name>Mac and Cheese</name>
+        <image>images/mac_cheese.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/bbq_bowl.html</link>
+        <name>Chicken BBQ Bowl</name>
+        <image>images/bbq_bowl.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/wild_rice.html</link>
+        <name>Chicken and Wild Rice Soup</name>
+        <image>images/wild_rice.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/gravy.html</link>
+        <name>Gravy</name>
+        <image>images/gravy.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/goat_jam.html</link>
+        <name>Goat Cheese and Jam Sandwich</name>
+        <image>images/goat_jam.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/salmon_bowl.html</link>
+        <name>Salmon Rice Bowls</name>
+        <image>images/salmon_bowl.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/chicken_nuggs.html</link>
+        <name>Baked Chicken Nuggets and Potao Wedges</name>
+        <image>images/chicken_nuggs.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/baked_fish.html</link>
+        <name>Baked Fish Fillet</name>
+        <image>images/baked_fish.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/texas_caviar.html</link>
+        <name>Texas Caviar</name>
+        <image>images/texas_caviar.jpg</image>
+    </recipe>
+    <recipe>
         <link>recipes/spicy_lomein.html</link>
         <name>Spicy Beef Lomein</name>
         <image>images/spicy_lomein.jpg</image>
