@@ -2,6 +2,31 @@
 <?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
 <recipes>
     <recipe>
+        <link>recipes/buffalo_chicken_pasta.html</link>
+        <name>Buffalo Chicken Pasta</name>
+        <image>images/buffalo_chicken_pasta.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/beef_chili.html</link>
+        <name>Beef Chili</name>
+        <image>images/beef_chili.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/beef_udon.html</link>
+        <name>Beef and Udon Noodle Soup</name>
+        <image>images/beef_udon.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/mashed_potatoes.html</link>
+        <name>Mashed Potatoes</name>
+        <image>images/mashed_potatoes.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/cheese_tortellini.html</link>
+        <name>Cheese Tortellini with Ham and Veggies</name>
+        <image>images/cheese_tortellini.jpg</image>
+    </recipe>
+    <recipe>
         <link>recipes/kbeef_bowl.html</link>
         <name>Korean Beef Bowl</name>
         <image>images/kbeef_bowl.jpg</image>
