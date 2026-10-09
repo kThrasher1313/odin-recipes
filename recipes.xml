@@ -2,6 +2,31 @@
 <?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
 <recipes>
     <recipe>
+        <link>recipes/chickpea_curry.html</link>
+        <name>Basil Chickpea Curry</name>
+        <image>images/chickpea_curry.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/cauliflower_pita.html</link>
+        <name>Roasted Cauliflower Pitas</name>
+        <image>images/cauliflower_pita.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/salmon_salad.html</link>
+        <name>Salmon Potato Salad</name>
+        <image>images/salmon_salad.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/chipotle_steak.html</link>
+        <name>Chipotle Steak Bowl</name>
+        <image>images/chipotle_steak.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/scones.html</link>
+        <name>Scones</name>
+        <image>images/scones.jpg</image>
+    </recipe>
+    <recipe>
         <link>recipes/buffalo_chicken_pasta.html</link>
         <name>Buffalo Chicken Pasta</name>
         <image>images/buffalo_chicken_pasta.jpg</image>
