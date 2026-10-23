@@ -2,6 +2,31 @@
 <?xml-stylesheet type="text/xsl" href="recipes.xsl"?>
 <recipes>
     <recipe>
+        <link>recipes/carnitas.html</link>
+        <name>Slow Cooker Carnitas</name>
+        <image>images/carnitas.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/tomato_soup.html</link>
+        <name>Creamy Tomato Basil Soup</name>
+        <image>images/tomato_soup.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/steak_asiago_bagel.html</link>
+        <name>Steak Asiago Bagel Sandwich</name>
+        <image>images/steak_asiago_bagel.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/chicken_gnocchi.html</link>
+        <name>Chicken and Gnocchi Soup</name>
+        <image>images/chicken_gnocchi.jpg</image>
+    </recipe>
+    <recipe>
+        <link>recipes/meatloaf.html</link>
+        <name>Meatloaf</name>
+        <image>images/meatloaf.jpg</image>
+    </recipe>
+    <recipe>
         <link>recipes/chickpea_curry.html</link>
         <name>Basil Chickpea Curry</name>
         <image>images/chickpea_curry.jpg</image>
